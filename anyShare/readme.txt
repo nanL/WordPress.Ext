@@ -2,7 +2,7 @@
 
 Contributors:      nan
 Requires at least: 3.0.0
-Tested up to:      3.5.1
+Tested up to:      3.5.2
 Stable tag:        trunk
 Donate link:       http://nan.im/blog/1302
 Tags:              SNS, China, Share, Button
@@ -32,16 +32,16 @@ anyShare 是专为中国用户设计制作的社会化网络分享纯绿色小�
 
 常见问题：
 
-0.4 版本时个别服务器样式没有加载导致界面丑陋，需要升级到最新版解决；
-
 
 == Changelog ==
 
+= 2013-07-14 1.0 =
+修复了一个针对 32 位服务器的问题；
+
 = 2013-03-30 0.9 =
 率先支持 Retina 显示屏；
-去掉了我喜欢但让网友们纳闷的二维码；
+去掉了我个人很喜欢但让很多网友不爽的二维码；
 接纳网友意见在页面类型的内容页不再显示本插件；
-优先尝试使用主题目录下的 anyShare.css 样式；
 为分享链接加上 nofollow 标记；
 代码几乎完全重构；
 
