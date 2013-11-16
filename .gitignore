@@ -1,5 +1,5 @@
-*
-!.gitignore
-!README.md
-!anyShare
-!anyEmbed
+languages
+plugins
+themes
+upgrade
+uploads
