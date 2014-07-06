@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: anyShare
-Version:     1.0
+Version:     1.1
 Author:      nan
 Author URI:  http://nan.im/
 Plugin URI:  http://nan.im/blog/1302
