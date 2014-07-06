@@ -1,11 +1,11 @@
-@charset "utf-8"; /* CSS Document for anyShare by nan.im 0330-2013 */
+@charset "utf-8"; /* CSS file for anyShare by nan.im 2014-0706 */
 
 #anyShare { display: block; margin: 20px auto; }
 #anyShare:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
 #anyShare b { display: block; font-weight: normal; }
 #anyShare i { float: right; font-size: 10px; opacity: 0.618; }
-#anyShare a { float: left; height: 32px; width: 32px; margin: 2px; overflow: hidden; text-indent: -9em; opacity: 0.7; background-image: url('ICON.png'); }
-#anyShare a { background-image: -webkit-image-set(url(ICON.png) 1x, url(ICON-2X.png) 2x); }
+#anyShare a { float: left; height: 32px; width: 32px; margin: 2px; overflow: hidden; text-indent: -9em; opacity: 0.6; background-image: url('ICON.png'); }
+#anyShare a { background-image: -webkit-image-set(url(ICON.png) 1x, url(ICON-2X.png) 2x); } /* for Retina display */
 #anyShare a:hover { opacity: 1; }
 #anyShare a#L766 { background-position: 35px -3px; }
 #anyShare a#L398 { background-position: -3px -3px; }
@@ -19,4 +19,3 @@
 #anyShare a#L944 { background-position: -3px -38px; }
 #anyShare a#L050 { background-position: -108px -74px; }
 #anyShare a#L918 { background-position: -73px -74px; }
-
